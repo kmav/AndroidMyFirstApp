@@ -4,9 +4,9 @@
 ###1st commit
 Initial setup with my activity displaying hello world accoring to "Creating an Android project" session.
 
-###2nd commit
+###2nd commit - pending
 Building a Simple User Interface
 
-###3nd commit
+###3nd commit - pending
 Starting another Activity
 
