@@ -5,7 +5,7 @@
 Initial setup with my activity displaying hello world accoring to "Creating an Android project" session.
 http://developer.android.com/training/basics/firstapp/creating-project.html
 
-###2nd commit - pending
+###2nd commit
 Building a Simple User Interface
 http://developer.android.com/training/basics/firstapp/building-ui.html
 
